@@ -5,4 +5,3 @@ project(algorithm)
 
 include_directories(Node)
 add_subdirectory(BinarySearch)
-add_subdirectory(BreadthFirstSearch)
